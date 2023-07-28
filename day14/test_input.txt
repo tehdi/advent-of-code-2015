@@ -1,0 +1,3 @@
+Reindeer,speed,flight_time,rest_time
+Comet,14,10,127
+Dancer,16,11,162

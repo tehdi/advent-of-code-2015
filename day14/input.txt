@@ -1,0 +1,10 @@
+Reindeer,speed,flight_time,rest_time
+Dasher,10,4,37
+Dancer,37,1,36
+Prancer,9,12,97
+Vixen,8,8,53
+Comet,3,37,76
+Cupid,12,4,43
+Donner,9,5,38
+Blitzen,13,4,49
+Rudolph,20,7,132
